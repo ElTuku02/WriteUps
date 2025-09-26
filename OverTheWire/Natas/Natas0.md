@@ -24,4 +24,4 @@ Analizando el mismo nos damos cuenta del algo relevante. Directamente hemos enco
 - Muchas veces la información sensible queda expuesta en los comentarios de HTML.
 
 >[!CAUTION]
->En este Ejericio si voy a mostrar la contraseña del siguiente nivel, en futuros problemas estará censurada. 
+>En este ejercicio si voy a mostrar la contraseña del siguiente nivel, en futuros problemas estará censurada. 
