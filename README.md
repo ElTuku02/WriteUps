@@ -11,7 +11,6 @@ El objetivo es documentar el proceso de resolución de los desafíos, explicar l
 
 - Recursos útiles y comandos empleados durante la resolución.
 
-[!ALERT]
+>[!WARNING]
 
-Estos writeups tienen únicamente fines educativos y de aprendizaje personal.
-No deben ser utilizados con fines maliciosos ni aplicados en entornos sin autorización
+>Estos writeups tienen únicamente fines educativos y de aprendizaje personal. No deben ser utilizados con fines maliciosos ni aplicados en entornos sin autorización
