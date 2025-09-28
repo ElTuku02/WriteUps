@@ -8,6 +8,7 @@ La página inicial muestra únicamente un texto sencillo:
 ```url
 You can find the password for the next level on this page.
 ```
+
 ## Analisis
 
 Al inspeccionar el sitio no se observa nada relevante a simple vista.
@@ -24,4 +25,4 @@ Analizando el mismo nos damos cuenta del algo relevante. Directamente hemos enco
 - Muchas veces la información sensible queda expuesta en los comentarios de HTML.
 
 >[!CAUTION]
->En este ejercicio si voy a mostrar la contraseña del siguiente nivel, en futuros problemas estará censurada. 
+>En este ejercicio si voy a mostrar la contraseña del siguiente nivel, en futuros problemas estará censurada.

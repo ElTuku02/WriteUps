@@ -6,7 +6,7 @@ En este nivel, la página muestra el el siguiente mensaje:
 You can find the password for the next level on this page, but rightclicking has been blocked! 
 ```
 
-Lo que quiere decir que esta vez no vamos a poder entrar al modo **inspeccionar** o ver el **código fuente** con el ratón. 
+Lo que quiere decir que esta vez no vamos a poder entrar al modo **inspeccionar** o ver el **código fuente** con el ratón.
 
 Si lo intentas veras que te sale el siguiente mensaje por pantalla:
 
@@ -25,12 +25,12 @@ Hay varias formas de hacerlo:
   - `F12`
   - `Ctrl + Shift + I`
 
-- Sabemos que lo que bloque el uso del click derecho es js, los navegadores actuales desactivar el uso de javascript, lo que nos permitiría entrar sin problema. 
+- Sabemos que lo que bloque el uso del click derecho es js, los navegadores actuales desactivar el uso de javascript, lo que nos permitiría entrar sin problema.
 
 >[!NOTE]
->Esto se hace desde la configuracion del navegador, dependiendo del navegador se hace de diferente manera, lo mejor es que busques como desactivarlo para tu navegador. 
+>Esto se hace desde la configuracion del navegador, dependiendo del navegador se hace de diferente manera, lo mejor es que busques como desactivarlo para tu navegador.
 
-Una vez podamos entrar al modo **inspeccion** revisaremos el código como lo hemos hecho en el ejercicio anterior, encontraremos lo siguiente: 
+Una vez podamos entrar al modo **inspeccion** revisaremos el código como lo hemos hecho en el ejercicio anterior, encontraremos lo siguiente:
 
 ![Contraseña-Natas2](Assets/Natas1/Contraseña.png)
 

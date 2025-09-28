@@ -21,7 +21,8 @@ Esto nos sugiere que puede existir un directorio accesible públicamente `/files
 Teniendo esto en cuenta vamos a poner en la url la siguiente ruta:
 `http://natas2.natas.labs.overthewire.org/files/`
 
-Esto nos llevará a un directorio donde aparecerá
+Esto nos llevará a un directorio donde aparecerá:
+
 - `La imagen(nada importante)`
 - `Una fichero llamado Users.txt`
 
