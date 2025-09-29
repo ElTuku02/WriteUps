@@ -48,4 +48,4 @@ Esto nos devuelve el HTML de la página junto con la contraseña del siguiente n
 
 - No deben usarse como un método de seguridad ni de autenticación.
 
-- Herramientas como curl, Burp Suite o las DevTools de navegador permiten manipular cabeceras sin dificultad.
+- Herramientas como `curl`, `Burp Suite` o las `DevTools` de navegador permiten manipular cabeceras sin dificultad.
