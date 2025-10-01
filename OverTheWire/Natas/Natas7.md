@@ -56,3 +56,11 @@ El servidor interpreta el valor de page e incluye el archivo indicado.
 Como resultado, se muestra el contenido del fichero con la contraseña.
 
 ![Contraseña](Assets/Natas7/Contraseña.png)
+
+## Conclusion
+
+- Siempre validar y sanitizar los parámetros que se usan en funciones críticas como `include`.
+
+- Nunca concatenar directamente entradas de usuario en rutas de archivos.
+
+- El LFI es una de las vulnerabilidades más comunes en aplicaciones PHP mal diseñadas.
