@@ -21,7 +21,7 @@ Nuestro objetivo es leer:
 
 Ocurre cuando entradas de usuario se insertan en una llamada al sistema (p. ej. `exec`, `system`, `passthru`) sin validación.
 
-- Símbolos peligrosos: `;`, `|`, `||`, `&&`, backticks ` , $(...).
+- Símbolos peligrosos: `;`, `|`, `||`, `&&`, backticks ``command`` , $(...).
 - Impacto: ejecución arbitraria de comandos; lectura de archivos sensibles; pivot para *RCE*.
 
 Mitigaciones:
