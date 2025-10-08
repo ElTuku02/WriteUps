@@ -78,7 +78,7 @@ Sabiendo esto ahora vamos a volver a hacer el proceso original pero vamos a usar
 
 Copiamos esta nueva cookie, la intercambiamos por la nuestra y al darle F5 veremos lo siguiente:
 
-![Contraseña](Assets/Natas11/Contrseña.png)
+![Contraseña](Assets/Natas11/Contraseña.png)
 
 ## Conclusion
 
