@@ -90,3 +90,11 @@ Existen dos variantes:
 
 - **Boolean-based:** el resultado depende de una condición verdadera/falsa.
 - **Time-based:** se usan funciones como `SLEEP(5)` para distinguir respuestas por tiempo.
+
+## Conclusion
+
+- A veces no se necesita ver los datos para extraerlos: basta con observar las respuestas del servidor.
+
+- Las aplicaciones que devuelven mensajes distintos (aunque parezcan inocentes) pueden filtrar información sensible.
+
+- Los **prepared statements** y las consultas parametrizadas son la única defensa real.
